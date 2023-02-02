@@ -1,0 +1,144 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.logo {
+    padding-left: 132px;
+}
+ .ul {
+    display: flex;
+    justify-content: space-between;
+    width: 596px;
+    padding-right: 65px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+.section-div {
+    justify-content: column;
+    margin-top: 272px;
+    padding-left: 70px;
+    max-width: 636px;
+    width: 100%;
+}
+.provide {
+    width: 636px;
+    height: 213px;
+    font-size: 78px;
+    color: #534D4D;
+}
+.mobile {
+    width: 602px;
+    height: 103px;
+    font-size: 22px;
+    color: #534D4D;
+}
+.wave {
+    width: 264px;
+    height: 77px;
+    border-radius: 38px;
+    background-color: #3D37F1;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.wave-img {
+    padding-left: 43px;
+    padding-right: 30.7px;
+}
+.image-1 {
+    max-width: 801px;
+    margin-top: 272px;
+    margin-right: 150px;
+}
+.image {
+    width: 100%;
+}
+.section-2 {
+    margin: 0 auto;
+    margin-bottom: 67px;
+    width: 720px;
+    height: 183px;
+    margin-top: 260px;
+    text-align: center;
+}
+.service {
+    font-size: 20px;
+    color: #3D37F1;
+}
+.provide-2 {
+    font-size: 40px;
+    color: #5A5454;
+    padding-bottom: 20px;
+    padding-top: 12px;
+}
+.commitment {
+    font-size: 18px;
+    color: #747474;
+    width: 712px;
+    height: 85px;
+}
+.wrap-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1169px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.wrapper {
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+    text-align: center;
+}
+.img {
+    padding-top: 88px;
+    padding-bottom: 55px;
+}
+.website {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+.fast {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    padding-bottom: 11px;
+    padding-top: 12px;
+    color: #FFFFFF;
+}
+.read {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #FFFFFF;
+    color: #4B647E;
+    margin: 0 auto;
+}
+.wrapper:nth-child(2){
+    background-color: #41EAE3;
+}
+.wrapper:nth-child(3){
+    background-color: #69529F;
+}
+.wrapper:nth-child(4){
+    background-color: #4386D2;
+    margin-top: 30px;
+}
+.wrapper:nth-child(5){
+    background-color: #A5A2F6;
+    margin-top: 30px;
+}
+.wrapper:nth-child(6){
+    background-color: #FF8088;
+    margin-top: 30px;
+}
